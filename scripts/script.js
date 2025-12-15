@@ -19,7 +19,7 @@ let phrases = [
     "Game Designer",
     "Web Developer",
     "Machine Learning Engineer",
-    "C# Teacher",
+    "C Teacher",
     "Computer Engineer"
 ];
 let carouselChildren = [...carousel.children];
